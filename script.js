@@ -1,4 +1,4 @@
-const m3uUrl = "https://raw.githubusercontent.com/sm-monirulislam/AynaOTT-auto-update-playlist/refs/heads/main/AynaOTT.m3u";
+const m3uUrl = "https://raw.githubusercontent.com/rsfjbd/Mix-Playlist/refs/heads/main/rsbd.m3u";
 let clapprPlayer;
 
 window.addEventListener('load', function() {
